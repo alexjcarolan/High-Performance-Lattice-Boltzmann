@@ -7,8 +7,8 @@ A high performance lattice Boltzmann fluid simulator operating in 2 dimensions w
 
 |OMP Scaling|MPI Scaling|
 |-----------|-----------|
-|![](outputs/omp_scaling.gif)|![](outputs/mpi_scaling.gif)|
+|![](outputs/omp_scaling.png)|![](outputs/mpi_scaling.png)|
 
 |OMP Roofline|OCL Roofline|MPI Roofline|
 |------------|------------|------------|
-|![](outputs/omp_roofline.gif)|![](outputs/ocl_roofline.gif)|![](outputs/ocl_roofline.gif)|
+|![](outputs/omp_roofline.png)|![](outputs/ocl_roofline.png)|![](outputs/ocl_roofline.png)|
